@@ -1,0 +1,9 @@
+{
+    "instructions": ["Use this metadata file, if instructed to, to define your submission. For example, where Linux is supported, if",
+                     "your submission is designed for Linux, change 'system' to Linux"
+                    ],
+    "course": "cno",
+    "module": "cno-system-surveys",
+    "lab": "system-surveys",
+    "system": "Windows"
+}
